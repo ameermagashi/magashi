@@ -60,7 +60,7 @@ npm install
 npm run dev
 ```
 
-API runs at `http://localhost:5000`.
+API runs at `http://localhost:5001`.
 
 ### 3. Frontend
 
